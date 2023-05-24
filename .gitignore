@@ -1,2 +1,5 @@
 .venv/
+.vscode/
 SECRETS.json
+backend/__pycache__/
+*.db
